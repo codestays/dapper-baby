@@ -38,3 +38,34 @@
     justify-content: end;
     gap: 25px;
 }
+
+.main-menu-bar {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu{
+    height: 100%;
+    width: 455px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+
+}
+
+.iphones {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+}
+
+.select-line{
+    height: 2px;
+    width: 60%;
+    background-color: black;
+}
