@@ -6,3 +6,35 @@
 .main-page{
     background: #C5C9CD;
 }
+
+.main-nav-bar {
+    height: 70px;
+    display: flex;
+    padding-left: 104px;
+    padding-right: 104px;
+}
+
+.left-nav-bar {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.mid-nav-bar {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right-nav-bar {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 25px;
+}
