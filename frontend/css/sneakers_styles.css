@@ -69,3 +69,87 @@
     width: 60%;
     background-color: black;
 }
+
+.main-slogan-panel{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 104px;
+    padding-right: 104px;
+}
+
+.slogan-panel{
+    height: 373px;
+    width: 1233px;
+    display: flex;
+    border-radius: 30px;
+    background: #72767F;
+    filter: drop-shadow(5px 5px 2px #554f54);
+}
+
+.main-slogan-box{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: center;
+}
+
+.all-slogan-box{
+    height: 171px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.slogan-box{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.slogan1{
+    font-size: 40px;
+}
+
+.slogan2{
+    color: #FF95F1;
+    font-size: 40px;
+}
+.shop-now-box{
+    display: flex;
+    height: 50%;
+    width: 100%;
+    align-items: end;
+    justify-content: center;
+}
+
+.shop-now{
+    height: 50px;
+    width: 175px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 80px;
+    filter: drop-shadow(5px 5px 2px #554f54);
+    background: #FF95F1;
+    color: azure;
+}
+.picture-box{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.photo{
+    height: 305px;
+    width: 322px;
+}
